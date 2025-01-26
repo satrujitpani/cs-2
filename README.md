@@ -75,6 +75,7 @@ git push origin feature2
 📂 Repository Structure
 
 merge-conflict/
+
 │── main.c
 │── README.md (this file)
 
